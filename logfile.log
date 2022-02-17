@@ -1,0 +1,4 @@
+2022-02-18 00:01:27,293 INFO  [Log] <<<<<<<<<   TEST CASE STARTED!   >>>>>>>> 
+2022-02-18 00:01:27,921 INFO  [Log] Name, E-mail, Current Address and Permanent Address filled! 
+2022-02-18 00:01:28,066 INFO  [Log] setNameEmailCurrentAddressPermanentAddress() TEST CASE PASSED! 
+2022-02-18 00:01:28,066 INFO  [Log] <<<<<<<<<   TEST CASE FINISHED!   >>>>>>>> 
